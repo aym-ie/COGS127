@@ -24,10 +24,10 @@ We met up with our stakeholders in person and conducted an interview for 1-1.5 h
 
 **Audio consent:** Additionally, do we have your permission to record audio of your interview responses for us to analyze later?
 
-[Stakeholder 1 Interview Response](stakeholder1-interview-response.md)
+[Stakeholder 1 Interview Response](interview-responses/stakeholder1-interview-response.md)
 
 
-[Stakeholder 2 Interview Response](stakeholder2-interview-response.md)
+[Stakeholder 2 Interview Response](interview-responses/stakeholder2-interview-response.md)
 
 ### User Research Findings
 
