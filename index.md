@@ -30,6 +30,7 @@ We met up with our stakeholders in person and conducted an interview for 1-1.5 h
 
 [Stakeholder 2 Interview Response](interview-responses/stakeholder2-interview-response.md)
 
+
 <br>
 
 ### User Research Findings
@@ -67,6 +68,10 @@ We met up with our stakeholders in person and conducted an interview for 1-1.5 h
 
 ## Problem Statement
 Through our stakeholder interviews, we found that medical administrators in clinics struggled with record management systems that lack automation and required switching between multiple programs to complete a task. As a result, our stakeholders experienced frustration with having to swap between multiple windows, causing delays in updating critical records.
+
+
+
+<br>
 
 ## Personas
 **Persona 1**
@@ -147,4 +152,45 @@ Through our stakeholder interviews, we found that medical administrators in clin
 <br>
 
 ## UX Flows
-##
+### Flow 1: Checking-In
+Currently, our stakeholder has to help patients check-in, which requires asking patients the same questions every time they come in. The stakeholder feels that this is repetitive, so our goal for this flow is to redesign the flow of checking in patients to reduce load for stakeholders. This flow lays out a self-service pre-check-in feature for patients to enter their personal information, which aims to minimize repetitiveness and load for receptionists.
+
+![](images/flow-1-ux-flow)
+
+
+### Flow 2: Updating Patient Records
+Currently, our stakeholders have to constantly switch between different websites and windows in order to update patient records. Our goal for this flow is to make it easier to update patient records without constantly switching between websites and windows. To accomplish this, this flow will allow users to update patient records within a single, integrated system, minimizing the need to switch between multiple websites and windows
+
+![](images/flow-2-ux-flow)
+
+
+
+<br>
+
+## UI Sketches
+### Flow 1: Checking-In
+![](images/flow-1-ui-sketch.png)
+
+
+### Flow 2: Updating Patient Records
+![](images/flow-2-ui-sketch.png)
+
+## Low-Fidelity Wireframe Prototype
+### Flow 1: Checking-In
+![](images/flow-1-lofi.png)
+
+### Flow 2: Updating Patient Records
+![](images/flow-2-lofi.png)
+
+### Design Decisions
+We decided to do two different prototype flows to show the two main problems our stakeholders had. Each of the flows will help with different issues. Flow 1 alleviates the frustration of repetitively asking the same questions to help patients check in by providing a self-check-in option. Patients will be able to carefully read the questions at their own pace and edit any information on their profiles. This low-fidelity prototype follows the UX flow of milestone 3 but combines the UI sketch flows for flow 1 of milestone 3. We chose these specific UI designs to maximize clarity and visibility so that users can easily see their information without it being too cluttered and confusing. We kept the homepage simple and straightforward and used concise panels for the homepage and the view appointments page so that patients can view more information at a glance. The check-in questionnaire should have enough information to be self-explanatory, and the confirmation page is clear and does not require scrolling.
+
+Flow 2 differs by addressing a different stakeholder issue. Rather than focusing on the repetitive check-in process, flow 2 aims to assist stakeholders by simplifying their workflow. Currently, our stakeholders need to switch between different programs and windows to update patient records, so flow 2 aims to streamline this process and limit the amount of switching between programs. Our low-fidelity prototype for flow 2 matches our UX flow for milestone 3. The prototype mostly matches our UI sketches, with only a few screens differing. Screen four, spine x-rays, has been changed to make the contact names and information more visible. This flow adds a built-in communication system so that our stakeholders will be able to retrieve and update patient files and results without needing to switch to a different program. The user will be able to contact other departments on the same website as well as add the newly acquired files without having to manually download and upload the files. This will streamline the process and reduce the amount of program switches in a workflow.
+
+
+<br>
+
+## User Testing Results
+
+
+
