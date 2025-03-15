@@ -175,12 +175,17 @@ Currently, our stakeholders have to constantly switch between different websites
 ### Flow 2: Updating Patient Records
 ![](images/flow-2-ui-sketch.png)
 
+
+<br>
+
 ## Low-Fidelity Wireframe Prototype
 ### Flow 1: Checking-In
 ![](images/flow-1-lofi.png)
+[Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?node-id=36-239&t=NshxKHfVtglAPHCL-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A400&starting-point-node-id=36%3A239&show-proto-sidebar=1){:target="_blank"}
 
 ### Flow 2: Updating Patient Records
 ![](images/flow-2-lofi.png)
+[Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?node-id=50-201&t=IpbEAwXj2aa9SczI-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A400&starting-point-node-id=50%3A201&show-proto-sidebar=1){:target="_blank"}
 
 ### Design Decisions
 We decided to do two different prototype flows to show the two main problems our stakeholders had. Each of the flows will help with different issues. Flow 1 alleviates the frustration of repetitively asking the same questions to help patients check in by providing a self-check-in option. Patients will be able to carefully read the questions at their own pace and edit any information on their profiles. This low-fidelity prototype follows the UX flow of milestone 3 but combines the UI sketch flows for flow 1 of milestone 3. We chose these specific UI designs to maximize clarity and visibility so that users can easily see their information without it being too cluttered and confusing. We kept the homepage simple and straightforward and used concise panels for the homepage and the view appointments page so that patients can view more information at a glance. The check-in questionnaire should have enough information to be self-explanatory, and the confirmation page is clear and does not require scrolling.
@@ -191,6 +196,52 @@ Flow 2 differs by addressing a different stakeholder issue. Rather than focusing
 <br>
 
 ## User Testing Results
+### Methods
+For our user test, we interviewed two stakeholders. One stakeholder is a head intern at a neurosurgery clinic, and the other is an ER intern. We found them through contacting mutual friends.
+
+Our interview questions include two tasks, one per flow. After each task, we asked the participants a series of follow-up questions about the prototype, so that we can understand what they liked/disliked about it, as well as identify any areas of frustration and confusion.
+
+**Tasks:**
+
+**1. Check-In (Flow 1)**
+- Scenario: A patient comes in for their appointment and needs to check in. You inform the patient to complete a self-service online check-in. Complete the check-in process from the patient’s perspective.
+
+**2. Update Record (Flow 2)**
+- Scenario: You need to update a patient’s medical record. Find the first patient, and update their x-ray records by contacting the company through email. View the email and update the x-ray records.
+
+<br>
+
+[Stakeholder 1 Feedback](/interview-responses/stakeholder1-feedback.md)
 
 
+[Stakeholder 2 Feedback](/interview-responses/stakeholder2-feedback.md)
 
+
+### Findings
+**Flow 1: Check-In**
+
+Our first user thought that the check-in flow satisfies the general requirements of typical check-in at a clinic. He liked how the flow's design was very bare and simple because it makes it easier for patients to check in. FOr this flow, he thought that the steps were clear and did not get confused by any of the steps.
+
+Our second user thought that this check-in process was straightforward and efficient since it only required a Login and a few questions. They thought the button was easy to distinguish which made navigation easy. Something they didn’t like was how some aspects were too similar when they are not related which could cause confusion. Overall, Flow 1 was found to be more intuitive than Flow 2 since they didn’t need to think twice about what to do on each page.
+
+
+**Flow 2: Updating Patient Record**
+
+Our first user thinks that this flow would be very efficient for use in the office because everything was accessible from a singular interface, without the need to browse through many different websites to update a patient’s records. While he didn’t struggle with using this prototype, he brought feasibility into question because it seems difficult for such a currently complex process to be boiled down to one interface; however, if it is possible, he thinks that it would be amazing. One thing he was confused about was the email feature and the types of files that can be received through it.
+
+Our second user this flow made updating medical records efficient since there were no unnecessary complexities. They liked that they can send messages within the interface instead of reaching externally. Something they didn’t like was how some buttons were not obvious. A worry they have is distinguishing patients with similar name/age and suggest clearly patient identifiers. Another worry would be the incoming message notification as it could be hard to keep track of messages.
+
+**Overall**
+
+Our first user found both flows equally intuitive but thought that the second flow would be more useful for his current workflow, as his position requires him to upload patient medical files and communicate with other companies.
+
+Our second user found the first flow more intuitive since the second one had less intuitive icons. This user also thought that the first workflow would save a lot of time since they usually input all of that information by themself. The user thought that this flow would save time for them and the patients.
+
+<br>
+
+## Point of View Statement
+During user testing, we discovered that users liked both prototypes. Our users liked the simplicity of flow 1 because of the lack of unnecessary information. While the prototype for flow 1 would reduce the workload for our users, this prototype is meant to be used by patients rather than our stakeholders. They found it confusing on how it would be implemented in real life. For flow 2, our users liked that it simplified the process by using a single interface, but our stakeholders were concerned about the feasibility of combining multiple processes into one. We believe flow 2 should be further developed based on our stakeholders frequent tasks.
+
+<br>
+
+## High Fidelity Prototype

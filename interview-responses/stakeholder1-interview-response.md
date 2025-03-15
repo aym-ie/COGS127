@@ -1,4 +1,4 @@
-[Back to Main](../index.md)
+[Back to Main](../index.md/#user-research-method)
 
 ## Stakeholder 1 Interview Response
 **1. What is your current occupation or primary role? Can you describe what you do?**
