@@ -2,6 +2,9 @@
 
 Alice Ma, Kelly La, Jessica Ouyang, Amy Yee
 
+<link rel="stylesheet" href="index.css">
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
 
 ### Table of Contents
 **[Background](#background)** <br>
