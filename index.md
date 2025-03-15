@@ -79,6 +79,8 @@ Through our stakeholder interviews, we found that medical administrators in clin
 ## Competitive Audits
 ### NexGen Health
 ![](images/netgen-health-logo.png)
+
+
 **Description:** A cloud-based healthcare suite that focuses on practice management, including scheduling and patient records. Relevant to your efficiency concerns.
 
 **Strengths:**
@@ -95,6 +97,8 @@ Through our stakeholder interviews, we found that medical administrators in clin
 
 ### Oracle Health
 ![](images/oracle-cerner-logo.png)
+
+
 **Description:** Another major healthcare platform offering scheduling, patient records, and communication tools. Addresses similar workflow challenges mentioned in your statement.
 
 **Strengths:**
@@ -109,6 +113,8 @@ Through our stakeholder interviews, we found that medical administrators in clin
 
 ### Athena Health
 ![](images/athena-health-logo.png)
+
+
 **Description:** A cloud-based healthcare suite that focuses on practice management, including scheduling and patient records. Relevant to your efficiency concerns.
 
 **Strengths:**
@@ -124,6 +130,8 @@ Through our stakeholder interviews, we found that medical administrators in clin
 
 ### Calendly
 ![](images/calendly-logo.png)
+
+
 **Description:** A software company that develops a business communication platform used for teams to schedule, prepare and follow up on external meetings.
 
 **Strengths:**
