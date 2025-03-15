@@ -189,7 +189,7 @@ Currently, our stakeholders have to constantly switch between different websites
 
 [Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=35%3A400&node-id=228-2682&viewport=-108%2C356%2C0.07&t=gyHjJPVw2ThfdaxC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=228%3A2682&show-proto-sidebar=1){:target="_blank"}
 
-### Design Decisions
+### Low Fidelity Design Decisions
 We decided to do two different prototype flows to show the two main problems our stakeholders had. Each of the flows will help with different issues. Flow 1 alleviates the frustration of repetitively asking the same questions to help patients check in by providing a self-check-in option. Patients will be able to carefully read the questions at their own pace and edit any information on their profiles. This low-fidelity prototype follows the UX flow of milestone 3 but combines the UI sketch flows for flow 1 of milestone 3. We chose these specific UI designs to maximize clarity and visibility so that users can easily see their information without it being too cluttered and confusing. We kept the homepage simple and straightforward and used concise panels for the homepage and the view appointments page so that patients can view more information at a glance. The check-in questionnaire should have enough information to be self-explanatory, and the confirmation page is clear and does not require scrolling.
 
 Flow 2 differs by addressing a different stakeholder issue. Rather than focusing on the repetitive check-in process, flow 2 aims to assist stakeholders by simplifying their workflow. Currently, our stakeholders need to switch between different programs and windows to update patient records, so flow 2 aims to streamline this process and limit the amount of switching between programs. Our low-fidelity prototype for flow 2 matches our UX flow for milestone 3. The prototype mostly matches our UI sketches, with only a few screens differing. Screen four, spine x-rays, has been changed to make the contact names and information more visible. This flow adds a built-in communication system so that our stakeholders will be able to retrieve and update patient files and results without needing to switch to a different program. The user will be able to contact other departments on the same website as well as add the newly acquired files without having to manually download and upload the files. This will streamline the process and reduce the amount of program switches in a workflow.
@@ -247,3 +247,19 @@ During user testing, we discovered that users liked both prototypes. Our users l
 <br>
 
 ## High Fidelity Prototype
+Since flow 1, checking in, is meant to be used by patients rather than medical professionals, we decided to focus on our second flow, updating patient records, for the high fidelity prototype.
+
+[Link to Flow 2 High-Fidelity Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=89%3A520&node-id=136-1119&viewport=-319%2C137%2C0.09&t=suo0pSn3dL4YdwDX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=136%3A1119){:target="_blank"}
+
+
+
+### High Fidelity Design Decisions
+
+Our high-fidelity prototype implements our original flow 2 from Milestone 3, matching the low-fidelity prototype from Milestone 4. We made some UI changes to the pages so that all the information can be easily skimmed through. We made some changes to our patient profile page, formatting the information cards so that more information can be looked through with a single glance. On our patient list page, there was previously a concern about finding a patient who might have the same as someone else, so we added an account number to distinguish different patients. On the patient documents page, the contacts and document list are side-by-side so the user can easily find the department for the file they need. Instead of just the email popup when viewing emails, we formatted the page to be more like an email inbox so that users can view past emails as well. Emails regarding specific patients can be found under the patient profile page, making it easy for our users to assign a file to the patient’s documents.
+
+We decided to make the high-fidelity prototype for our second flow because our first flow was more focused on the patients rather than our stakeholders. Our first flow indirectly helps our stakeholders by lessening their workload but since the program is meant to be used by the patients and not the medical workers, we decided to focus our high fidelity on our flow 2, which will be used by the stakeholders directly. This was the main idea of our point of view statement, so we decided to improve the UI and functionality of flow 2 to make it easier for our stakeholders to use.
+
+Through our user testing in Milestone 5, we learned that some of our buttons and features were not as obvious as we thought they would be, so we added features and hover effects to increase visibility. Another main concern was distinguishing different patients with the same names and birthdates, so we added unique account IDs. The last concern was about keeping track of notifications, which is why we added the inbox feature rather than just an overlay or singular email page. These changes are part of what we wanted to improve in our plan for next steps.
+
+
+
