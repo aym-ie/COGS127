@@ -75,15 +75,15 @@ Through our stakeholder interviews, we found that medical administrators in clin
 
 ## Personas
 **Persona 1**
-![Persona 1 PNG](images/Persona-1)
+![Persona 1](images/Persona-1)
 
 **Persona 2**
-![Persona 2 PNG](images/Persona-2)
+![Persona 2](images/Persona-2)
 
 
 ## Competitive Audits
 ### NexGen Health
-![](images/netgen-health-logo.png)
+![NexGen Health Logo](images/netgen-health-logo.png)
 
 
 **Description:** A cloud-based healthcare suite that focuses on practice management, including scheduling and patient records. Relevant to your efficiency concerns.
@@ -101,7 +101,7 @@ Through our stakeholder interviews, we found that medical administrators in clin
 <br>
 
 ### Oracle Health
-![](images/oracle-cerner-logo.png)
+![Oracle Health Logo](images/oracle-cerner-logo.png)
 
 
 **Description:** Another major healthcare platform offering scheduling, patient records, and communication tools. Addresses similar workflow challenges mentioned in your statement.
@@ -117,7 +117,7 @@ Through our stakeholder interviews, we found that medical administrators in clin
 <br>
 
 ### Athena Health
-![](images/athena-health-logo.png)
+![Athena Health Logo](images/athena-health-logo.png)
 
 
 **Description:** A cloud-based healthcare suite that focuses on practice management, including scheduling and patient records. Relevant to your efficiency concerns.
@@ -134,7 +134,7 @@ Through our stakeholder interviews, we found that medical administrators in clin
 <br>
 
 ### Calendly
-![](images/calendly-logo.png)
+![Calendly Logo](images/calendly-logo.png)
 
 
 **Description:** A software company that develops a business communication platform used for teams to schedule, prepare and follow up on external meetings.
@@ -155,13 +155,13 @@ Through our stakeholder interviews, we found that medical administrators in clin
 ### Flow 1: Checking-In
 Currently, our stakeholder has to help patients check-in, which requires asking patients the same questions every time they come in. The stakeholder feels that this is repetitive, so our goal for this flow is to redesign the flow of checking in patients to reduce load for stakeholders. This flow lays out a self-service pre-check-in feature for patients to enter their personal information, which aims to minimize repetitiveness and load for receptionists.
 
-![](images/flow-1-ux-flow)
+![Flow 1 UX Flow](images/flow-1-ux-flow)
 
 
 ### Flow 2: Updating Patient Records
 Currently, our stakeholders have to constantly switch between different websites and windows in order to update patient records. Our goal for this flow is to make it easier to update patient records without constantly switching between websites and windows. To accomplish this, this flow will allow users to update patient records within a single, integrated system, minimizing the need to switch between multiple websites and windows
 
-![](images/flow-2-ux-flow)
+![Flow 2 UX Flow](images/flow-2-ux-flow)
 
 
 
@@ -169,23 +169,23 @@ Currently, our stakeholders have to constantly switch between different websites
 
 ## UI Sketches
 ### Flow 1: Checking-In
-![](images/flow-1-ui-sketch.png)
+![Flow 1 UI Sketch](images/flow-1-ui-sketch.png)
 
 
 ### Flow 2: Updating Patient Records
-![](images/flow-2-ui-sketch.png)
+![Flow 2 UI Sketch](images/flow-2-ui-sketch.png)
 
 
 <br>
 
 ## Low-Fidelity Wireframe Prototype
 ### Flow 1: Checking-In
-![](images/flow-1-lofi.png)
+![Flow 1 Low Fidelity Flow](images/flow-1-lofi.png)
 
 [Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=35%3A400&node-id=228-1714&viewport=-108%2C356%2C0.07&t=gyHjJPVw2ThfdaxC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=228%3A1714&show-proto-sidebar=1){:target="_blank"}
 
 ### Flow 2: Updating Patient Records
-![](images/flow-2-lofi.png)
+![Flow 2 Low Fidelity Flow](images/flow-2-lofi.png)
 
 [Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=35%3A400&node-id=228-2682&viewport=-108%2C356%2C0.07&t=gyHjJPVw2ThfdaxC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=228%3A2682&show-proto-sidebar=1){:target="_blank"}
 
@@ -249,8 +249,9 @@ During user testing, we discovered that users liked both prototypes. Our users l
 ## High Fidelity Prototype
 Since flow 1, checking in, is meant to be used by patients rather than medical professionals, we decided to focus on our second flow, updating patient records, for the high fidelity prototype.
 
-[Link to Flow 2 High-Fidelity Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=89%3A520&node-id=136-1119&viewport=-319%2C137%2C0.09&t=suo0pSn3dL4YdwDX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=136%3A1119){:target="_blank"}
+![High Fidelity Prototype Flow](/images/flow-2-high-fidelity.png)
 
+[Link to Flow 2 High-Fidelity Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=89%3A520&node-id=136-1119&viewport=-319%2C137%2C0.09&t=suo0pSn3dL4YdwDX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=136%3A1119){:target="_blank"}
 
 
 ### High Fidelity Design Decisions
@@ -261,5 +262,69 @@ We decided to make the high-fidelity prototype for our second flow because our f
 
 Through our user testing in Milestone 5, we learned that some of our buttons and features were not as obvious as we thought they would be, so we added features and hover effects to increase visibility. Another main concern was distinguishing different patients with the same names and birthdates, so we added unique account IDs. The last concern was about keeping track of notifications, which is why we added the inbox feature rather than just an overlay or singular email page. These changes are part of what we wanted to improve in our plan for next steps.
 
+<br>
+
+### Alternate Versions
+**Alternate Version 1**
+![Alternate Version 1 Original](/images/alt-1-original.png)
+*Original*
+
+![Alternate Version 1 Alternative](/images/alt-1-new.png)
+*Alternative*
 
 
+In our alternate screen, we decided to modify the top navigation bar so that the user can keep track of incoming notifications. To reduce the cognitive load on our users, the improved top bar can help with keeping track of email notifications, with the top as the most recent. In our current design, the only way to keep track of recent emails is through individual patient pages, which might be difficult if the user forgets which patient or the ID they were recently looking at. Our alternative screen makes it easier for the user by allowing the user to reference recent notifications and the patient the notification is about.
+
+<br>
+
+**Alternate Version 2**
+![Alternate Version 2 Original](/images/alt-2-original.png)
+*Original*
+
+![Alternate Version 2 Alternative](/images/alt-2-new.png)
+*Alternative*
+
+
+In this alternative screen, we redesigned the way our user moves a file into patient documents. In the original version (left), the patient docs are organized in a list of folders that each have a “move here” button. In the alternative version (right), we decided to minimize the repetitiveness of the button and rearranged the folders into a grid view with a singular “move to [folder name]” button at the bottom. The alternative design highlights which folder has been selected by filling the folder blue and specifying the selected folder in the “move” button’s text label. From user testing next week, we hope that we can learn which method of interaction and organization the users prefer (grid vs. list) and whether they prefer multiple or one “move” button.
+
+
+## Refining the High Fidelity Prototype
+
+
+### User Feedback for High Fidelity Prototype
+
+For our informal user testing, we asked our two users to go through the original flow from milestone 6, and asked them to give us overall feedback. Then, we showed them our two alternative screens, and asked them to tell us their thoughts about the different versions.
+
+[Feedback from User 1](/interview-responses/user-1-high-fidelity.md)
+
+[Feedback from User 2](/interview-responses/user-2-high-fidelity.md)
+<br>
+
+### Final Design
+Using the feedback from our user testing, we made some changes to our prototype to improve workflow and make it easier for users to understand the components that were found to be initially confusing. There were also additions to reduce cognitive load and we included a way to customize your view preference between grid and list views.
+
+![Flow 2 High Fidelity Updated Prototype](/images/flow-2-high-fidelity-updated.png)
+[Link to Flow 2 High-Fidelity Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=89%3A520&node-id=136-1119&viewport=-319%2C137%2C0.09&t=suo0pSn3dL4YdwDX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=136%3A1119){:target="_blank"}
+<br>
+
+### Design Decisions for the Improvements
+**Scrollable:** Based on our feedback, users think the prototype should be scrollable because it will give users a better idea of how the actual website functions. We decided to make it scrollable because it will be a better representation of the real website. The main features we made when making the prototype scrollable was to make the header sticky. This will allow users to easily navigate throughout the website.
+
+**Inbox:** Both of the feedback we received favored alternative option for viewing the message inbox. For our final design, we will be including an inbox icon on the top right corner because it will be easier to find and see when there is a new message. Users can preview their new messages without switching to a new page. We think this will improve the user's experience because they can view their new messages anywhere on the website since it will be in the header.
+
+**List & grid view:** Another improvement we will be making is creating a list & grid view because based on our feedback, our users prefer viewing files in grid view. By providing both options, people can customize their experience to their own preferences. So between our original and alternative 2 screens, we decided to combine both of them and allow the user to toggle between them.
+
+**Search bar:** We will change the design of the search bar to make it more obvious that users can just click onto the search bar and type. We will do this by making the search icon and the text “Search” next to each other. This change is based on feedback we received from Dave because he had a little confusion on how the search bar worked.
+
+<br>
+
+### Before and After
+![Screen 1 Changes](/images/flow-2-screen-1-before-after.png)
+
+Based on our feedback, we discovered that users generally preferred to view documents/folders in a grid view rather than a list view. To address this issue, we decided to add a toggle for switching between grid/list view, with grid view as the default option. This way, we are addressing the fact that a majority of our users prefer the grid view without fully taking away the option to view folders in a list. And there was concern about keeping track of notifications, which is why we added the inbox feature rather than just an overlay or singular email page.
+
+<br>
+
+![Screen 2 Changes](/images/flow-2-screen-2-before-after.png)
+
+Based on feedback, we found that there was concern about how the search bar functioned, whether it was a direct input field or a button that led to a text input field. Since we wanted to convey that users can type directly into it, we revised it to match the standardized search bar UI, so that it conveys the behavior of a typical search bar. Additionally, we received feedback about the appearance of the sort and list icons. Specifically, there was inconsistent padding and confusion about what the “list” icon does. To address this, we redesigned the sort icon and adjusted spacing, and also added a filter icon. Also, we used the list/grid view toggle from the patient docs screen to provide some clarity on the functionality.
