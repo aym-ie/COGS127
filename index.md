@@ -181,11 +181,13 @@ Currently, our stakeholders have to constantly switch between different websites
 ## Low-Fidelity Wireframe Prototype
 ### Flow 1: Checking-In
 ![](images/flow-1-lofi.png)
-[Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?node-id=36-239&t=NshxKHfVtglAPHCL-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A400&starting-point-node-id=36%3A239&show-proto-sidebar=1){:target="_blank"}
+
+[Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?node-id=228-1714&t=IpbEAwXj2aa9SczI-1&scaling=scale-down&content-scaling=fixed&page-id=35%3A400&starting-point-node-id=228%3A1714&show-proto-sidebar=1){:target="_blank"}
 
 ### Flow 2: Updating Patient Records
 ![](images/flow-2-lofi.png)
-[Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?node-id=50-201&t=IpbEAwXj2aa9SczI-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A400&starting-point-node-id=50%3A201&show-proto-sidebar=1){:target="_blank"}
+
+[Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?node-id=228-2682&t=IpbEAwXj2aa9SczI-1&scaling=scale-down&content-scaling=fixed&page-id=35%3A400&starting-point-node-id=228%3A2682&show-proto-sidebar=1){:target="_blank"}
 
 ### Design Decisions
 We decided to do two different prototype flows to show the two main problems our stakeholders had. Each of the flows will help with different issues. Flow 1 alleviates the frustration of repetitively asking the same questions to help patients check in by providing a self-check-in option. Patients will be able to carefully read the questions at their own pace and edit any information on their profiles. This low-fidelity prototype follows the UX flow of milestone 3 but combines the UI sketch flows for flow 1 of milestone 3. We chose these specific UI designs to maximize clarity and visibility so that users can easily see their information without it being too cluttered and confusing. We kept the homepage simple and straightforward and used concise panels for the homepage and the view appointments page so that patients can view more information at a glance. The check-in questionnaire should have enough information to be self-explanatory, and the confirmation page is clear and does not require scrolling.
