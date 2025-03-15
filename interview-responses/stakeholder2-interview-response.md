@@ -1,4 +1,4 @@
-[Back to Main](case-study.md)
+[Back to Main](../index.md)
 
 ## Stakeholder 2 Interview Response
 **1. What is your current occupation or primary role? Can you describe what you do?**
