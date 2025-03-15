@@ -2,6 +2,36 @@
 
 Alice Ma, Kelly La, Jessica Ouyang, Amy Yee
 
+
+### Table of Contents
+**[Background](#background)** <br>
+**[User Research Method](#user-research-method)** <br> &nbsp; &nbsp;[User Research Findings](#user-research-findings) <br>
+**[Problem Statement](#problem-statement)** <br>
+**[Personas](#personas)** <br>
+**[Competitive Audits](#competitive-audits)** <br>
+&nbsp; &nbsp;[NexGen Health](#nexgen-health) <br>
+&nbsp; &nbsp;[Oracle Health](#oracle-health) <br>
+&nbsp; &nbsp;[Athena Health](#athena-health) <br>
+&nbsp; &nbsp;[Calendly](#calendly) <br>
+**[UX Flows](#ux-flows)** <br>
+**[UI Sketches](#ui-sketches)** <br>
+**[Low-Fidelity Wireframe Prototype](#low-fidelity-wireframe-prototype)** <br>
+&nbsp; &nbsp;[Low-Fidelity Design Decisions](#low-fidelity-design-decisions) <br>
+**[Low-Fidelity User Testing Results](#low-fidelity-user-testing-results)** <br>
+&nbsp; &nbsp; [Methods](#methods) <br>
+&nbsp; &nbsp; [Findings](#findings) <br>
+**[Point of View Statement](#point-of-view-statement)** <br>
+**[High-Fidelity Prototype](#high-fidelity-prototype)** <br>
+&nbsp; &nbsp;[High-Fidelity Design Decisions](#high-fidelity-design-decisions) <br>
+&nbsp; &nbsp;[Alternate Versions](#alternate-versions) <br>
+**[Updating the High-Fidelity Prototype](#updating-the-high-fidelity-prototype)** <br>
+&nbsp; &nbsp;[High-Fidelity User Testing Results](#high-fidelity-user-testing-results) <br>
+&nbsp; &nbsp;[Final Design](#final-design) <br>
+&nbsp; &nbsp;[Design Decisions for the Improvements](#design-decisions-for-the-improvements) <br>
+&nbsp; &nbsp;[Before and After](#before-and-after) <br>
+
+<br>
+
 ## Background
 In a medical setting, the medical receptionists are the first point of contact for patients in person and over the phone. In general, they are responsible for organizing the medical office's operations. 
 
@@ -9,19 +39,21 @@ Our two stakeholders, both medical receptionists, ensure the smooth running of t
 
 In a typical workday, medical receptionists rely on multiple digital tools to streamline workflow. However, inefficiencies in these systems often lead to frustration and delays in patient care. By exploring their experiences and challenges, this project aims to identify opportunities to improve workflow efficiency and enhance the overall patient care experience.
 
+<br>
+
 ## User Research Method
 We are conducting **two stakeholder interviews**. We conducted the first interview before Milestone 1 and conducted the second interview before Milestone 2.
 
 **Stakeholder 1:** The person I have contacted is the head intern of the research department. He leads interns in the research department, organizing shifts, coordinating tasks, and training interns. He also does work with papers that his department is working on as well as a large project that the clinic is involved in.
 
-**Stakeholder 2:** The person I have contacted for this project is someone working at NEMS front desk in San Francisco. She has been working there for around 30 years. She works front desk on the pediatrician floor and is responsible for taking calls, making appointments, and organizing schedules for her co-workers.
+**Stakeholder 2:** The person I have contacted for this project is someone working at NEMS front desk in San Francisco. She has been working there for around 30 years. She works front desk on the pediatrician floor and is responsible for taking calls, making appointments, and organizing schedules for her co-workers. 
 
 <br>
 
 #### Pre-Interview and Set-Up Questions
 We met up with our stakeholders in person and conducted an interview for 1-1.5 hours. To start off our interview, we told the stakeholders that the goal of the interview was to learn more about how they interact with applications at work, in hopes of gaining insight about challenges/frustrations that they face. We also made sure to inform them that being a stakeholder involved providing feedback and testing for future milestones.
 
-**Photograph consent:** We will not be asking to take photos/videos due to the information being confidential to protect the patient's privacy and security.
+**Photograph consent:** We will not be asking to take photos/videos due to the information being confidential to protect the patient's privacy and security. <br>
 
 **Audio consent:** Additionally, do we have your permission to record audio of your interview responses for us to analyze later?
 
@@ -77,9 +109,12 @@ Through our stakeholder interviews, we found that medical administrators in clin
 **Persona 1**
 ![Persona 1](images/Persona-1)
 
+<br>
+
 **Persona 2**
 ![Persona 2](images/Persona-2)
 
+<br>
 
 ## Competitive Audits
 ### NexGen Health
@@ -157,6 +192,7 @@ Currently, our stakeholder has to help patients check-in, which requires asking 
 
 ![Flow 1 UX Flow](images/flow-1-ux-flow)
 
+<br>
 
 ### Flow 2: Updating Patient Records
 Currently, our stakeholders have to constantly switch between different websites and windows in order to update patient records. Our goal for this flow is to make it easier to update patient records without constantly switching between websites and windows. To accomplish this, this flow will allow users to update patient records within a single, integrated system, minimizing the need to switch between multiple websites and windows
@@ -171,6 +207,7 @@ Currently, our stakeholders have to constantly switch between different websites
 ### Flow 1: Checking-In
 ![Flow 1 UI Sketch](images/flow-1-ui-sketch.png)
 
+<br>
 
 ### Flow 2: Updating Patient Records
 ![Flow 2 UI Sketch](images/flow-2-ui-sketch.png)
@@ -184,12 +221,16 @@ Currently, our stakeholders have to constantly switch between different websites
 
 [Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=35%3A400&node-id=228-1714&viewport=-108%2C356%2C0.07&t=gyHjJPVw2ThfdaxC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=228%3A1714&show-proto-sidebar=1){:target="_blank"}
 
+<br>
+
 ### Flow 2: Updating Patient Records
 ![Flow 2 Low Fidelity Flow](images/flow-2-lofi.png)
 
 [Link to Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=35%3A400&node-id=228-2682&viewport=-108%2C356%2C0.07&t=gyHjJPVw2ThfdaxC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=228%3A2682&show-proto-sidebar=1){:target="_blank"}
 
-### Low Fidelity Design Decisions
+<br>
+
+### Low-Fidelity Design Decisions
 We decided to do two different prototype flows to show the two main problems our stakeholders had. Each of the flows will help with different issues. Flow 1 alleviates the frustration of repetitively asking the same questions to help patients check in by providing a self-check-in option. Patients will be able to carefully read the questions at their own pace and edit any information on their profiles. This low-fidelity prototype follows the UX flow of milestone 3 but combines the UI sketch flows for flow 1 of milestone 3. We chose these specific UI designs to maximize clarity and visibility so that users can easily see their information without it being too cluttered and confusing. We kept the homepage simple and straightforward and used concise panels for the homepage and the view appointments page so that patients can view more information at a glance. The check-in questionnaire should have enough information to be self-explanatory, and the confirmation page is clear and does not require scrolling.
 
 Flow 2 differs by addressing a different stakeholder issue. Rather than focusing on the repetitive check-in process, flow 2 aims to assist stakeholders by simplifying their workflow. Currently, our stakeholders need to switch between different programs and windows to update patient records, so flow 2 aims to streamline this process and limit the amount of switching between programs. Our low-fidelity prototype for flow 2 matches our UX flow for milestone 3. The prototype mostly matches our UI sketches, with only a few screens differing. Screen four, spine x-rays, has been changed to make the contact names and information more visible. This flow adds a built-in communication system so that our stakeholders will be able to retrieve and update patient files and results without needing to switch to a different program. The user will be able to contact other departments on the same website as well as add the newly acquired files without having to manually download and upload the files. This will streamline the process and reduce the amount of program switches in a workflow.
@@ -197,7 +238,7 @@ Flow 2 differs by addressing a different stakeholder issue. Rather than focusing
 
 <br>
 
-## User Testing Results
+## Low-Fidelity User Testing Results
 ### Methods
 For our user test, we interviewed two stakeholders. One stakeholder is a head intern at a neurosurgery clinic, and the other is an ER intern. We found them through contacting mutual friends.
 
@@ -218,6 +259,7 @@ Our interview questions include two tasks, one per flow. After each task, we ask
 
 [Stakeholder 2 Feedback](/interview-responses/stakeholder2-feedback.md)
 
+<br>
 
 ### Findings
 **Flow 1: Check-In**
@@ -226,12 +268,15 @@ Our first user thought that the check-in flow satisfies the general requirements
 
 Our second user thought that this check-in process was straightforward and efficient since it only required a Login and a few questions. They thought the button was easy to distinguish which made navigation easy. Something they didn’t like was how some aspects were too similar when they are not related which could cause confusion. Overall, Flow 1 was found to be more intuitive than Flow 2 since they didn’t need to think twice about what to do on each page.
 
+<br>
 
 **Flow 2: Updating Patient Record**
 
 Our first user thinks that this flow would be very efficient for use in the office because everything was accessible from a singular interface, without the need to browse through many different websites to update a patient’s records. While he didn’t struggle with using this prototype, he brought feasibility into question because it seems difficult for such a currently complex process to be boiled down to one interface; however, if it is possible, he thinks that it would be amazing. One thing he was confused about was the email feature and the types of files that can be received through it.
 
 Our second user this flow made updating medical records efficient since there were no unnecessary complexities. They liked that they can send messages within the interface instead of reaching externally. Something they didn’t like was how some buttons were not obvious. A worry they have is distinguishing patients with similar name/age and suggest clearly patient identifiers. Another worry would be the incoming message notification as it could be hard to keep track of messages.
+
+<br>
 
 **Overall**
 
@@ -246,15 +291,16 @@ During user testing, we discovered that users liked both prototypes. Our users l
 
 <br>
 
-## High Fidelity Prototype
+## High-Fidelity Prototype
 Since flow 1, checking in, is meant to be used by patients rather than medical professionals, we decided to focus on our second flow, updating patient records, for the high fidelity prototype.
 
 ![High Fidelity Prototype Flow](/images/flow-2-high-fidelity.png)
 
 [Link to Flow 2 High-Fidelity Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=89%3A520&node-id=136-1119&viewport=-319%2C137%2C0.09&t=suo0pSn3dL4YdwDX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=136%3A1119){:target="_blank"}
 
+<br>
 
-### High Fidelity Design Decisions
+### High-Fidelity Design Decisions
 
 Our high-fidelity prototype implements our original flow 2 from Milestone 3, matching the low-fidelity prototype from Milestone 4. We made some UI changes to the pages so that all the information can be easily skimmed through. We made some changes to our patient profile page, formatting the information cards so that more information can be looked through with a single glance. On our patient list page, there was previously a concern about finding a patient who might have the same as someone else, so we added an account number to distinguish different patients. On the patient documents page, the contacts and document list are side-by-side so the user can easily find the department for the file they need. Instead of just the email popup when viewing emails, we formatted the page to be more like an email inbox so that users can view past emails as well. Emails regarding specific patients can be found under the patient profile page, making it easy for our users to assign a file to the patient’s documents.
 
@@ -269,6 +315,8 @@ Through our user testing in Milestone 5, we learned that some of our buttons and
 ![Alternate Version 1 Original](/images/alt-1-original.png)
 *Original*
 
+<br>
+
 ![Alternate Version 1 Alternative](/images/alt-1-new.png)
 *Alternative*
 
@@ -281,23 +329,27 @@ In our alternate screen, we decided to modify the top navigation bar so that the
 ![Alternate Version 2 Original](/images/alt-2-original.png)
 *Original*
 
+<br>
+
 ![Alternate Version 2 Alternative](/images/alt-2-new.png)
 *Alternative*
 
 
 In this alternative screen, we redesigned the way our user moves a file into patient documents. In the original version (left), the patient docs are organized in a list of folders that each have a “move here” button. In the alternative version (right), we decided to minimize the repetitiveness of the button and rearranged the folders into a grid view with a singular “move to [folder name]” button at the bottom. The alternative design highlights which folder has been selected by filling the folder blue and specifying the selected folder in the “move” button’s text label. From user testing next week, we hope that we can learn which method of interaction and organization the users prefer (grid vs. list) and whether they prefer multiple or one “move” button.
 
+<br>
 
-## Refining the High Fidelity Prototype
+## Updating the High-Fidelity Prototype
 
 
-### User Feedback for High Fidelity Prototype
+### High-Fidelity User Testing Results
 
 For our informal user testing, we asked our two users to go through the original flow from milestone 6, and asked them to give us overall feedback. Then, we showed them our two alternative screens, and asked them to tell us their thoughts about the different versions.
 
 [Feedback from User 1](/interview-responses/user-1-high-fidelity.md)
 
 [Feedback from User 2](/interview-responses/user-2-high-fidelity.md)
+
 <br>
 
 ### Final Design
@@ -305,6 +357,7 @@ Using the feedback from our user testing, we made some changes to our prototype 
 
 ![Flow 2 High Fidelity Updated Prototype](/images/flow-2-high-fidelity-updated.png)
 [Link to Flow 2 High-Fidelity Prototype](https://www.figma.com/proto/aRmk24vQ6H81aRd88dIVVg/cogs-127-case-study?page-id=89%3A520&node-id=136-1119&viewport=-319%2C137%2C0.09&t=suo0pSn3dL4YdwDX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=136%3A1119){:target="_blank"}
+
 <br>
 
 ### Design Decisions for the Improvements
