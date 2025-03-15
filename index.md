@@ -1,10 +1,12 @@
 # COGS 127 Case Study
-
-Alice Ma, Kelly La, Jessica Ouyang, Amy Yee
-
 <link rel="stylesheet" href="index.css">
 <a class="top-link hide" href="#top">↑</a>
 <a name="top"></a>
+
+
+Alice Ma, Kelly La, Jessica Ouyang, Amy Yee
+
+
 
 ### Table of Contents
 **[Background](#background)** <br>
